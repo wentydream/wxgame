@@ -1,0 +1,25 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "scopeDataCheck": false
+  },
+  "compileType": "game",
+  "libVersion": "1.9.94",
+  "appid": "wxc9667778ac3ee288",
+  "projectname": "minigame",
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
